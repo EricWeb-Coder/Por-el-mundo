@@ -1,0 +1,23 @@
+.recomendacion{
+    @extend.vuelos
+}
+.reco{
+    width: 20%;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    img{
+        border-top-left-radius: 40px;
+        border-top-right-radius: 40px;
+        object-fit: cover;
+    }
+    &__title{
+        font-size: 1em;
+        color: $mainColor;
+        font-weight: 700;
+        font-family: $mainFont;
+    }
+    &__text{
+        font-size: 0.9em;
+        font-family: $mainFont;
+    }
+}

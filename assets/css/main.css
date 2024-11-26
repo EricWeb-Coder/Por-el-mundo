@@ -3,6 +3,12 @@ body {
   background-color: rgb(25, 20, 20);
 }
 
+.fondo {
+  background-color: rgb(69, 171, 189);
+  width: 100%;
+  display: block;
+}
+
 .menu {
   background-color: rgb(69, 171, 189);
 }
@@ -93,7 +99,7 @@ header p {
   font-family: "Libre Franklin", sans-serif;
 }
 .reco__text {
-  font-size: 0.9em;
+  font-size: 0.8em;
   font-family: "Libre Franklin", sans-serif;
 }
 

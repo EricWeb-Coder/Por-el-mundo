@@ -1,0 +1,22 @@
+.pie{
+    background-color: $mainColor;
+    width: 100%;
+    padding: 50px;
+    align-items: center;
+    img{
+        width: 200px;
+    }
+    &__redes{
+        a{
+            text-decoration: none;
+        }
+        svg{
+            width: 15px;
+            fill: $black;
+            &:hover{
+                cursor: pointer;
+                fill: $white;
+            }
+        }
+    }
+}

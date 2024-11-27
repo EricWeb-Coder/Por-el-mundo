@@ -1,0 +1,28 @@
+.preguntas{
+    @extend.vuelos;
+    margin-bottom: 120px;
+    &__acordion{
+        width: 100%;
+        padding: 50px;
+        gap: 30px;
+    }
+    h4{
+        font-family: $mainFont;
+    }
+    button{
+        color: $mainColor;
+        font-weight: 700;
+        &:hover{
+            color: $black;
+        }
+    }
+    &__item{
+        background-color: $black;
+        padding: 20px;
+        border: solid 4px $mainColor;
+    }
+    &__body{
+        color: $white;
+    }
+}
+

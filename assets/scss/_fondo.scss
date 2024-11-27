@@ -1,0 +1,27 @@
+.fondo{
+    background-color: $mainColor;
+    width: 100%;
+    height: auto;
+    margin-top: 154px;
+    justify-content: center;
+    h3{
+        @extend.recomendacion;
+        color: $white;
+    }
+    &__title{
+        color: $white;
+        padding: 10px;
+        font-family: $mainFont;
+        font-size: 1em;
+        font-weight: 700;
+    }
+    &__text{
+        line-height: 18px;
+        margin: 20px;
+        font-size: 0.7em;
+        font-family: $mainFont;
+    }
+    div{
+        margin-bottom: 150px;
+    }
+}

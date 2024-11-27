@@ -1,0 +1,30 @@
+@media (max-width: 1200px){
+    .card{
+        width: 40%;
+    }
+    .reco{
+        &__title{
+            font-size: 0.8em;
+        }
+
+    }
+}
+
+@media (max-width: 992px){
+    .card{
+        width: 40%;
+    }
+}
+
+@media (max-width: 578px){
+    .menu{
+        width: 100%;
+        
+        img{
+            width: 130px;
+        }
+    }
+    .card{
+        width: 100%;
+    }
+}

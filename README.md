@@ -37,24 +37,6 @@ Para cargar las librerias de Bootstrap y Animaciones Javascript, se coloca el sc
 - Ya tenes el archivo, pero sin el node modules
 - Ve a la terminal e instala las dependencias con npm i
 
-## Instalacion
-
-Por el Mundo requiere [Node.js](https://nodejs.org/) v10+ para correr.
-
-Instalar las dependencias y devDependencias e iniciar el servidor.
-
-```sh
-cd por el mundo
-npm i
-node app
-```
-
-Para entornos de produccion...
-
-```sh
-npm install --production
-NODE_ENV=production node app
-```
 
 ## Licencia
 

@@ -26,14 +26,25 @@ No lo dare por terminado, porque creo que puedo customizarlo mas y seguir aprend
 Para cargar las librerias de Bootstrap y Animaciones HTML5 Y CSS, se coloca el link en el <head></head>.
 Para cargar las librerias de Bootstrap y Animaciones Javascript, se coloca el scrpt al final de <body></body>.
 
-## Installation
+## Instruccion Git-clone
+
+- Ingresa a : https://github.com/
+- Inicia sesion
+- Entra a tu repositorio
+- Ve a Code y copia el url : https://github.com/EricWeb-Coder/Carrito-de-compras.git
+- Ve a Visual Studio Code y abre la terminal
+- Escribe git clone y pega la url
+- Ya tenes el archivo, pero sin el node modules
+- Ve a la terminal e instala las dependencias con npm i
+
+## Instalacion
 
 Por el Mundo requiere [Node.js](https://nodejs.org/) v10+ para correr.
 
 Instalar las dependencias y devDependencias e iniciar el servidor.
 
 ```sh
-cd dillinger
+cd por el mundo
 npm i
 node app
 ```

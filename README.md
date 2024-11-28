@@ -17,6 +17,9 @@ Como no es unico proyecto que hago, En esta landing aplique lo aprendido de Boot
 Y Responsive, para diferentes tipos de formato.
 No lo dare por terminado, porque creo que puedo customizarlo mas y seguir aprendiendo sobre la misma.
 
+## Prototipo Figma
+https://www.figma.com/design/W5ytknjzAJlNApuilJjlfB/Proyecto-Por-el-Mundo?node-id=0-1&node-type=canvas&t=X910epevn3rzw4S4-0
+
 ## Librerias
 
 - https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css -Version 5.3.3
